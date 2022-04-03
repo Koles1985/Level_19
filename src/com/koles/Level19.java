@@ -4,7 +4,8 @@
  */
 package com.koles;
 
-import com.koles.level_19.lecture_1.farewell_to_the_lambda_expression.Solution;
+import com.koles.level_19.lecture_2.converting_a_list_to_an_array.
+        Solution;
 /**
  *
  * @author User
