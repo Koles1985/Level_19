@@ -4,7 +4,7 @@
  */
 package com.koles;
 
-import com.koles.level_19.lecture_2.converting_a_list_to_an_array.
+import com.koles.level_19.lecture_5.task_2_data_conversion_2.
         Solution;
 /**
  *
