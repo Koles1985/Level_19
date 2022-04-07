@@ -4,7 +4,7 @@
  */
 package com.koles;
 
-import com.koles.level_19.lecture_6.task_5_cheapest_car.
+import com.koles.level_19.lecture_7.task_4_from_stream_to_string.
         Solution;
 /**
  *
