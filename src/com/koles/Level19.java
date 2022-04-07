@@ -4,7 +4,7 @@
  */
 package com.koles;
 
-import com.koles.level_19.lecture_5.task_2_data_conversion_2.
+import com.koles.level_19.lecture_6.task_5_cheapest_car.
         Solution;
 /**
  *
